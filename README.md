@@ -10,9 +10,13 @@ My goal is to build **clean, scalable, and maintainable software** while improvi
 
 ## Programming Languages, Frameworks, and Tools
 
-**Languages & Frameworks:** Bash • C++ • CSS • Express.js • HTML • Java • JavaScript • Markdown • Node.js • Nest.js • Python • SQL • TypeScript
+### Skills
 
-**Databases:** MongoDB • MySQL • PostgreSQL
+**Languages & Frameworks:**
+Bash • C++ • CSS • Express.js • HTML • Java • JavaScript • Markdown • Node.js • Nest.js • Python • SQL • TypeScript
+
+**Databases:**
+MongoDB • MySQL • PostgreSQL
 
 **Learning & Continuous Improvement:**
 - **Backend & Systems:** Java, Spring Boot, Kafka, Redis

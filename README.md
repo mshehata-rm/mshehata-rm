@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Basmala.svg" alt="بسم الله الرحمن الرحيم" width="600"/>
+</p>
+
 # Mustafa Shehata
 
 ## About Me
@@ -51,8 +55,4 @@ MongoDB • MySQL • PostgreSQL
 - [ ] Analyze a dataset using NumPy
 - [ ] Build a small data analysis notebook with Pandas
 
-
-
-<p align="center">
-  <b><big>القَليلُ الدَّائِمُ خَيرٌ مِنَ الكَثيرِ المُنقَطِعِ</big></b>
-</p>
+<h3 align="center" width = "100px" >سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ ، أَشْهَدُ أَنْ لا إِلَهَ إِلا أَنْتَ ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ</h3>

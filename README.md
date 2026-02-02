@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/Basmala.svg" alt="بسم الله الرحمن الرحيم" width="600"/>
+  <img src="assets/Basmala-dark.svg#gh-light-mode-only" alt="بسم الله الرحمن الرحيم" width="600"/>
+  <img src="assets/Basmala-light.svg#gh-dark-mode-only" alt="بسم الله الرحمن الرحيم" width="600"/>
 </p>
 
 ---

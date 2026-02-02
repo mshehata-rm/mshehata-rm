@@ -2,6 +2,8 @@
   <img src="assets/Basmala.svg" alt="بسم الله الرحمن الرحيم" width="600"/>
 </p>
 
+---
+
 ## About Me
 
 I am a **Software Engineer** with a focus on **backend development**, primarily using **Node.js and NestJS**.
@@ -52,5 +54,7 @@ MongoDB • MySQL • PostgreSQL
 ### Data & Computing
 - [ ] Analyze a dataset using NumPy
 - [ ] Build a small data analysis notebook with Pandas
+
+---
 
 <h3 align="center" width = "100px" >سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ ، أَشْهَدُ أَنْ لا إِلَهَ إِلا أَنْتَ ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ</h3>

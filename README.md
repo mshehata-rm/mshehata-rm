@@ -2,8 +2,6 @@
   <img src="assets/Basmala.svg" alt="بسم الله الرحمن الرحيم" width="600"/>
 </p>
 
-# Mustafa Shehata
-
 ## About Me
 
 I am a **Software Engineer** with a focus on **backend development**, primarily using **Node.js and NestJS**.

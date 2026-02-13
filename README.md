@@ -1,15 +1,20 @@
 <p align="center">
-  <img src="assets/Basmala-dark.svg#gh-light-mode-only" alt="بسم الله الرحمن الرحيم" width="600"/>
-  <img src="assets/Basmala-light.svg#gh-dark-mode-only" alt="بسم الله الرحمن الرحيم" width="600"/>
+  <img src="assets/Basmala-dark.svg#gh-light-mode-only" alt="بسم الله الرحمن الرحيم" width="400"/>
+  <img src="assets/Basmala-light.svg#gh-dark-mode-only" alt="بسم الله الرحمن الرحيم" width="400"/>
 </p>
 
 ---
 
-## About Me
+# Hi there, I'm Mustafa Shehata
+### Backend Developer
 
-I am a **Software Engineer** with a focus on **backend development**, primarily using **Node.js and NestJS**.
+I am a **junior Backend Developer** specializing in NodeJS and NestJS I’m currently focused on moving beyond the basics to understand how high-traffic systems actually work.
 I am continuously learning new technologies, contributing to **open-source projects**, and exploring **freelance opportunities**.
-My goal is to build **clean, scalable, and maintainable software** while improving my skills across the software engineering ecosystem.
+
+#### My Current Focus
+- **Contribute to Open Source:** I want to learn by solving real-world issues and collaborating with experienced developers.
+- **Master Scalability:** I'm fascinated by **Microservices** and **Advanced Architectures**, and I'm looking for projects where I can help build or maintain scalable systems.
+- **Write Clean Code:** I am a firm believer in SOLID principles and TypeScript to keep backends maintainable.
 
 ---
 

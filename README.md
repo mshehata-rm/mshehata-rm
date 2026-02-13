@@ -6,12 +6,12 @@
 ---
 
 # Hi there, I'm Mustafa Shehata
-### Backend Developer
+## Backend Developer
 
 I am a **junior Backend Developer** specializing in NodeJS and NestJS I’m currently focused on moving beyond the basics to understand how high-traffic systems actually work.
 I am continuously learning new technologies, contributing to **open-source projects**, and exploring **freelance opportunities**.
 
-#### My Current Focus
+### My Current Focus
 - **Contribute to Open Source:** I want to learn by solving real-world issues and collaborating with experienced developers.
 - **Master Scalability:** I'm fascinated by **Microservices** and **Advanced Architectures**, and I'm looking for projects where I can help build or maintain scalable systems.
 - **Write Clean Code:** I am a firm believer in SOLID principles and TypeScript to keep backends maintainable.
